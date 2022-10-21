@@ -69,5 +69,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [台積電股票時間序列預測-使用ARIMA模型、Prophet模型預測收盤價](https://jianan1104.dev/2022/08/25/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8%E6%99%82%E9%96%93%E5%BA%8F%E5%88%97%E9%A0%90%E6%B8%AC-%E4%BD%BF%E7%94%A8ARIMA%E6%A8%A1%E5%9E%8BProphet%E6%A8%A1%E5%9E%8B%E9%A0%90%E6%B8%AC%E6%94%B6%E7%9B%A4%E5%83%B9/)
+- [量化交易基礎-描述性分析](https://jianan1104.dev/2022/08/15/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%9F%BA%E7%A4%8E-%E6%8F%8F%E8%BF%B0%E6%80%A7%E5%88%86%E6%9E%90/)
+- [Fibonacci Using Recursioin](https://jianan1104.dev/2022/01/09/fibonacci-using-recursioin/)
+- [Exponential Function Using Recursion](https://jianan1104.dev/2022/01/08/exponential-function-using-recursion/)
 <!-- BLOG-POST-LIST:END -->
 
