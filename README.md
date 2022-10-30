@@ -32,6 +32,20 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 October 2022 - To: 30 October 2022
+
+Total Time: 15 hrs 9 mins
+
+Python       10 hrs 33 mins  >>>>>>>>>>>>>>>>>--------   69.66 %
+JavaScript   2 hrs 43 mins   >>>>---------------------   17.94 %
+Markdown     27 mins         >------------------------   02.98 %
+Makefile     19 mins         >------------------------   02.11 %
+YAML         18 mins         >------------------------   02.06 %
+TypeScript   16 mins         -------------------------   01.82 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Languages and Tools :
