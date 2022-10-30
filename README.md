@@ -28,11 +28,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jianan1104-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiananlin1104/)
 
-<!--
+
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jianan1104&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### :hammer_and_wrench: Languages and Tools :
 
 #### Languages
