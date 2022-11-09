@@ -34,16 +34,16 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 06 November 2022
+From: 19 October 2022 - To: 07 November 2022
 
-Total Time: 20 hrs 40 mins
+Total Time: 20 hrs 51 mins
 
-Python       15 hrs 7 mins   >>>>>>>>>>>>>>>>>>-------   73.15 %
-JavaScript   2 hrs 43 mins   >>>----------------------   13.16 %
-C++          29 mins         >------------------------   02.36 %
-Markdown     27 mins         >------------------------   02.21 %
-Bash         24 mins         -------------------------   01.97 %
-Makefile     22 mins         -------------------------   01.83 %
+Python       15 hrs 7 mins   >>>>>>>>>>>>>>>>>>-------   72.50 %
+JavaScript   2 hrs 43 mins   >>>----------------------   13.04 %
+Bash         33 mins         >------------------------   02.64 %
+C++          31 mins         >------------------------   02.54 %
+Markdown     27 mins         >------------------------   02.19 %
+Makefile     22 mins         -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
