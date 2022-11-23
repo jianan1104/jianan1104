@@ -34,11 +34,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 20 November 2022
+From: 19 October 2022 - To: 21 November 2022
 
 Total Time: 20 hrs 51 mins
 
-Python       15 hrs 7 mins   >>>>>>>>>>>>>>>>>>-------   72.49 %
+Python       15 hrs 7 mins   >>>>>>>>>>>>>>>>>>-------   72.48 %
 JavaScript   2 hrs 43 mins   >>>----------------------   13.04 %
 Bash         33 mins         >------------------------   02.64 %
 C++          31 mins         >------------------------   02.54 %
