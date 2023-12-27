@@ -36,7 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 24 December 2023
+From: 19 October 2022 - To: 25 December 2023
 
 Total Time: 20 hrs 53 mins
 
