@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/Kane1104"><img src="https://api.daily.dev/devcards/c722962f1de749c4823a30ac80db30fa.png?r=n6h" width="400" alt="Lin Jian An's Dev Card"/></a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
